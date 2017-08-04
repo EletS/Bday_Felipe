@@ -1,0 +1,52 @@
+header {
+  background-color: #F08080;
+  display: block;
+  text-align: center;
+}
+
+.capa {
+    width: 100%;
+}
+
+form {
+  background-color: #F08080;
+  display: block;
+  padding: 5%;
+  text-align: center;
+  margin: auto;
+  font-size: 150%;
+  }
+
+#Name {
+  padding: 10px;
+  margin: 5px;
+  border: solid #FF6347 1px;
+  font-size: 20px;
+  background-color: #FFB6C1;
+}
+
+#Declaração {
+  margin: 5px;
+  border: solid #FF6347 1px;
+  font-size: 20px;
+  background-color: #FFB6C1;
+}
+
+#Enviar {
+  font-size: 40px;
+}
+
+.comment-box {
+  padding: 45%;
+  padding-left: 10%;
+  background-color: #FFafff;
+}
+
+.fancy {
+  width: auto;
+  height: auto;
+  padding: 5%;
+  border: 6px solid #fff;
+  background-color: #ff6347;
+  box-sizing: border-box;
+}
